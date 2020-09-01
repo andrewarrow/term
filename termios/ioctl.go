@@ -1,4 +1,4 @@
-// +build !windows,!solaris
+// +build !wasm,!windows,!solaris
 
 package termios
 
